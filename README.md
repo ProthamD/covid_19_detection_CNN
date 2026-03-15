@@ -160,7 +160,7 @@ Neural Networks, 130, 185-194.
 
 ---
 
-# 🚀 Features
+#  Features
 
 * Upload chest X-ray images
 * Real-time COVID prediction
